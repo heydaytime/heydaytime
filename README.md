@@ -9,4 +9,4 @@ I'm a Computer Science junior at UW–Madison, also studying Data Science and Ec
 - <img src="assets/mirage.png" width="20" height="20" alt=""> **[Mirage](https://getmirage.dev)** — An iPad HDMI monitor with UVC video preview, audio passthrough, resolution switching, and screenshots.
 - <img src="assets/linkqt.png" width="20" height="20" alt=""> **[LinkQT](https://linkqt.me)** — Claim a personal name and publish a page from your own HTML or with AI. [Code](https://github.com/heydaytime/linkqt)
 
-[Website](https://mihirbelose.com) · [Projects](https://mihirbelose.com/projects) · [YouTube](https://www.youtube.com/@heydaytime) · [LinkedIn](https://www.linkedin.com/in/mihir-belose/)
+[![Website](assets/social/website.svg)](https://mihirbelose.com) &nbsp; [![YouTube](assets/social/youtube.svg)](https://www.youtube.com/@heydaytime) &nbsp; [![LinkedIn](assets/social/linkedin.svg)](https://www.linkedin.com/in/mihir-belose/)
