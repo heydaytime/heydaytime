@@ -4,11 +4,11 @@ Computer Science junior at UW–Madison, also studying Data Science and Economic
 
 ## Things I've built
 
-| Project | What it does |
-| :--- | :--- |
-| <img src="assets/heyday-news.png" width="20" height="20" alt="">&nbsp;**[HeyDay&nbsp;News](https://heyday.news)** | An autonomous news network producing cited reports, narrated broadcasts, and shorts from incoming sources. |
-| <img src="assets/skinshi.png" width="20" height="20" alt="">&nbsp;**[Skinshi](https://www.skinshi.com/)** | A native iOS app for CS2 inventory and Storage Units, connected directly to Steam. |
-| <img src="assets/mirage.png" width="20" height="20" alt="">&nbsp;**[Mirage](https://getmirage.dev)** | An iPad HDMI monitor with UVC capture, audio passthrough, and screenshots. |
-| <img src="assets/linkqt.png" width="20" height="20" alt="">&nbsp;**[LinkQT](https://linkqt.me)** | Claim a personal name and publish a page from your own HTML or with AI. |
+| | Project | What it does |
+| :---: | :--- | :--- |
+| <img src="assets/heyday-news.png" width="20" height="20" alt=""> | **[HeyDay&nbsp;News](https://heyday.news)** | An autonomous news network producing cited reports, narrated broadcasts, and shorts from incoming sources. |
+| <img src="assets/skinshi.png" width="20" height="20" alt=""> | **[Skinshi](https://www.skinshi.com/)** | A native iOS app for CS2 inventory and Storage Units, connected directly to Steam. |
+| <img src="assets/mirage.png" width="20" height="20" alt=""> | **[Mirage](https://getmirage.dev)** | An iPad HDMI monitor with UVC capture, audio passthrough, and screenshots. |
+| <img src="assets/linkqt.png" width="20" height="20" alt=""> | **[LinkQT](https://linkqt.me)** | Claim a personal name and publish a page from your own HTML or with AI. |
 
 [![Website](assets/social/website.svg)](https://mihirbelose.com) &nbsp; [![YouTube](assets/social/youtube.svg)](https://www.youtube.com/@heydaytime) &nbsp; [![LinkedIn](assets/social/linkedin.svg)](https://www.linkedin.com/in/mihir-belose/)
